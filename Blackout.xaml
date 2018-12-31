@@ -1,0 +1,10 @@
+﻿<Window x:Class="Ecran_de_veille_Pendule_SNCF.Blackout"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        Background="Black"
+        WindowStyle="None">
+    <Grid x:Name="MainGrid" />
+</Window>
